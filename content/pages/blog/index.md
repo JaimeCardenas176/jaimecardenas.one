@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Jaime Cárdenas's site
 seo:
-  title: Blog
+  title: Jaime Cárdenas's site
   description: This is the blog page
   extra:
     - name: 'og:type'
