@@ -5,9 +5,9 @@ excerpt: >-
   blog y bueno en principio es lo
   que pretendo con este proyecto....
 date: '2021-11-30'
-thumb_img_path: post1.jpg
+thumb_img_path: images/post1.jpg
 thumb_img_alt: en construccion
-content_img_path: post1.jpg
+content_img_path: images/post1.jpg
 content_img_alt: en construccion
 seo:
   title: Por fin lo hice!
@@ -25,7 +25,7 @@ seo:
         que pretendo con este proyecto...
       keyName: property
     - name: 'og:image'
-      value: post1.jpg
+      value: images/post1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -36,7 +36,7 @@ seo:
       value: >-
         La cosa es que llevaba tiempo pensando en la idea de hacer una especie de portfolio.
     - name: 'twitter:image'
-      value: post1.jpg
+      value: images/post1.jpg
       relativeUrl: true
 layout: post
 ---
