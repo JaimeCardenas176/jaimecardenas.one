@@ -17,14 +17,14 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: JaimeCardenas
+  description: mi blog
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: JaimeCardenas
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: JaimeCardenas176
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
