@@ -17,14 +17,14 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: JaimeCardenas
+  title: Jaime Cárdenas
   description: mi blog
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: JaimeCardenas
+      value: Jaime Cárdenas
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
