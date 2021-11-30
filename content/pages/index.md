@@ -4,27 +4,27 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: 'Hola, me llamo Jaime'
+    content: >
+      Esto es un intento de hacer un blog con Jamstack, ya veremos en que se
+      queda al final.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
-    posts_number: 4
+    posts_number: 1
     actions:
       - label: View Blog
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: JaimeCardenas
+  description: mi blog
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: JaimeCardenas
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: JaimeCardenas176
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
