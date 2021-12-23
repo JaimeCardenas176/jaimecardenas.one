@@ -4,13 +4,13 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: Para ponerte en contactco conmigo por favor rellena el formulario
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: name
-        label: Name
+        name: nombre
+        label: Nombre
         default_value: Your name
         is_required: true
       - input_type: email
@@ -19,25 +19,24 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: subject
-        label: Subject
+        name: asunto
+        label: Asunto
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Error en la página web
+          - Sponsor
+          - Otros
       - input_type: textarea
-        name: message
-        label: Message
+        name: mensaje
+        label: Mensaje
         default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entiendo que este formulario está almacenando mis datos para contactarme posteriormente.
+    submit_label: Enviar mensaje
 seo:
-  title: Contact
+  title: Contact0
   description: This is the contact page
   extra:
     - name: 'og:type'

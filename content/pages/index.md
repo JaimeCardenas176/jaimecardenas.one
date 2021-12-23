@@ -10,10 +10,10 @@ sections:
       queda al final.
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Últimos Post
     posts_number: 1
     actions:
-      - label: View Blog
+      - label: Ver Blog
         url: blog/index.html
         style: button
 seo:
