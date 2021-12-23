@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 hide_title: false
 sections:
   - section_id: contact-form
@@ -11,17 +11,17 @@ sections:
       - input_type: text
         name: nombre
         label: Nombre
-        default_value: Your name
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de email
         is_required: true
       - input_type: select
         name: asunto
         label: Asunto
-        default_value: Please select
+        default_value: Por favor elige uno
         options:
           - Error en la página web
           - Sponsor
@@ -29,7 +29,7 @@ sections:
       - input_type: textarea
         name: mensaje
         label: Mensaje
-        default_value: Your message
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
