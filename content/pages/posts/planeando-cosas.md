@@ -1,10 +1,7 @@
 ---
 title: Se vienen cositas
 excerpt: >-
-        Bueno este mes he dejado esto bastante abandonado... 
-        en mi defensa he estado haciendo cosas bastante útiles, 
-        no os voy a detallar mucho pero os cuento un poco por 
-        encima en que he estado estos 23 dias de mes...
+Bueno este mes he dejado esto bastante abandonado... en mi defensa he estado haciendo cosas bastante útiles, no os voy a detallar mucho pero os cuento un poco por encima en que he estado estos 23 dias de mes...
 date: '2021-12-23'
 thumb_img_path: images/post2.jpg
 thumb_img_alt: Se vienen cositas
@@ -22,10 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Bueno este mes he dejado esto bastante abandonado... 
-        en mi defensa he estado haciendo cosas bastante útiles, 
-        no os voy a detallar mucho pero os cuento un poco por 
-        encima en que he estado estos 23 dias de mes...
+      Bueno este mes he dejado esto bastante abandonado... en mi defensa he estado haciendo cosas bastante útiles, no os voy a detallar mucho pero os cuento un poco por encima en que he estado estos 23 dias de mes...
       keyName: property
     - name: 'og:image'
       value: images/post2.jpg
