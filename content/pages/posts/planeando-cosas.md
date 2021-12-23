@@ -1,5 +1,5 @@
 ---
-title: Planeando cosas
+title: Se vienen cositas
 excerpt: >-
         Bueno este mes he dejado esto bastante abandonado... 
         en mi defensa he estado haciendo cosas bastante útiles, 
@@ -7,18 +7,18 @@ excerpt: >-
         encima en que he estado estos 23 dias de mes...
 date: '2021-12-23'
 thumb_img_path: images/post2.jpg
-thumb_img_alt: planeando cosas
+thumb_img_alt: Se vienen cositas
 content_img_path: images/post2.jpg
-content_img_alt: planeando cosas
+content_img_alt: Se vienen cositas
 seo:
-  title: Planeando cosas
+  title: Se vienen cositas
   description: breve historia sobre el blog y el primer post.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Planeando cosas
+      value: Se vienen cositas
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planeando cosas
+      value: Se vienen cositas
     - name: 'twitter:description'
       value: >-
         Bueno este mes he dejado esto bastante abandonado...
